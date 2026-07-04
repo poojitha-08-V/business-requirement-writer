@@ -1,0 +1,32 @@
+Business Requirement Template
+
+1. Functional Requirements
+- User login
+- Requirement generation
+- Editable output
+
+2. Non Functional Requirements
+- Fast response
+- Secure access
+- User friendly interface
+
+3. User Stories
+As a user, I want automated requirement generation.
+
+4. Acceptance Criteria
+The system should generate complete requirement documents.
+
+5. Agile Methodology
+Agile follows iterative development cycles.
+
+6. Use Case
+Defines interaction between user and system.
+
+7. Sprint Planning
+Planning development tasks for each sprint.
+
+8. Risk Analysis
+Identifies possible project risks.
+
+9. Project Scope
+Defines project boundaries and objectives.
